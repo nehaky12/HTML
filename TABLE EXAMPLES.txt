@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>HTML TABLE</title>
+    </head>
+    <body>
+        <center>
+            <h1>HTML TABLE..!</h1>
+            <p>collection of rows and cols</p>
+        </center>
+        <hr>
+        <h2>table rowspan..! </h2>
+        <table border="2" cellpadding="20" cellspacing="20"> 
+           <caption>Employee Details</caption>
+            <tr>
+                <th>#</th>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <th>name</th>
+                <td>rohit</td>
+                <td>kiran</td>
+                <td>neha</td>
+                <td>shivam</td>
+                <td>jayshree</td>
+                
+            </tr>
+            <tr>
+                <th rowspan="2">mobile</th>
+                <td>1000</td>
+                <td>200</td>
+                <td>2000</td>
+                <td>2222</td>  
+                <td>4001</td> 
+            </tr> 
+            <tr>
+                <td>1001</td>
+                <td>2002</td>
+                <td>3000</td>
+                <td>4000</td>
+                <td>4003</td>
+            </tr>
+        </table>
+    </body>
+</html>

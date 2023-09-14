@@ -1,0 +1,132 @@
+<html>
+    <head>
+        <title> formatting tags</title>
+    </head>
+    <body>
+        <center>
+        <h1>HTML FORMATTING TAGS..!</h1>
+        <p>how to present the text in a document..! </p>
+        <p>there are 22 formatting tags and divided into 2 parts </p>
+        <p>1) logical tags</p>
+        <p>2) physical tags</p>
+        </center>
+
+     <hr>
+
+    <p> THIS IS A PARAGRAPH TAG..!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt maxime molestias consectetur quas sequi odit dicta molestiae neque tenetur? Recusandae, beatae itaque veniam quod delectus maxime incidunt cum voluptatum maiores? 
+    
+     </p>
+
+    <hr>
+    <b>THIS IS A BOLD TAG..!</b>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem debitis laborum praesentium ullam quas reiciendis, modi sequi. Illum quis, corrupti adipisci eligendi temporibus nam, odit omnis id perspiciatis tenetur dolor?
+    <b>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos recusandae repudiandae voluptatem iste nisi maxime quos aspernatur tempora dolore atque libero, totam dolorum eos ipsum neque repellendus a minima consequatur!</b> </p>
+
+    <hr>
+    <strong>THIS IS A STRONG TAG..!</strong>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis exercitationem, itaque quibusdam totam sequi quis inventore accusamus dicta suscipit veritatis modi repellat ipsum. Exercitationem placeat neque blanditiis odio accusamus eos?<strong >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil maiores dolorem atque earum dolorum voluptas porro enim iste odio, eligendi corrupti, facilis recusandae, minus distinctio similique voluptatibus aut expedita autem.</strong></p>
+
+    <hr>
+    <i>THIS IS A ITALIC TAG..!</i>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis itaque vitae sequi possimus repudiandae, molestias quae, eos omnis maiores veritatis cum aut temporibus, reprehenderit iste a nesciunt iusto numquam tenetur.<i>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum illum at ipsam aspernatur adipisci voluptate nesciunt iusto! Aut similique neque alias et commodi molestiae obcaecati ut praesentium saepe hic! Laudantium.</i></p>
+
+    <em>THIS IS A EMPHASIS TAG..!</em>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores at fugiat aut minus magnam molestiae veniam quod, autem nemo vitae impedit harum ducimus recusandae omnis qui a, debitis necessitatibus labore?<em>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt, harum dignissimos consectetur fugit perspiciatis explicabo quis molestiae cumque exercitationem atque autem culpa aliquam sit rerum officiis perferendis rem nemo nesciunt?</em></p>
+
+    <dfn>THIS IS A DEFINITION TAG ..!</dfn>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam saepe, eum voluptates soluta blanditiis consectetur magnam autem odit dolorem temporibus voluptatem, suscipit, aliquid dolorum reiciendis dolores. Facilis commodi non consequatur!<dfn>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis minima perspiciatis excepturi soluta dolorem veritatis fugit cum. Fugiat, earum repellendus harum quisquam alias corrupti obcaecati accusamus tempore non optio consequatur!</dfn></p>
+
+    <hr>
+
+    <u>THIS IS AN UNDERLINE TAG..!</u>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate esse et consectetur dolores, maiores odio reprehenderit cum voluptas iure ipsam autem animi hic eum, quos, iste labore error eveniet quo.<u>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam cum inventore officia odit magnam temporibus at minima natus magni sint illum, eos eaque molestiae laboriosam voluptatem quis beatae praesentium!</u></p>
+
+    <ins>THIS IS AN INSERT TAG..!</ins>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum perferendis modi, debitis est dolor, impedit dolorum deserunt vero sunt veritatis provident itaque saepe, tempore dolore? Inventore quisquam recusandae earum optio?<ins>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo deserunt repudiandae nisi labore ipsum libero sit officiis? Similique, tenetur? Quibusdam magni nam atque amet optio libero rem recusandae rerum!</ins></p>
+
+    <abbr title ="this is HTML CLASS..!">THIS IS AN ABBRIVATION TAG..!</abbr>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem possimus perspiciatis nulla laudantium illum neque facere at tenetur officiis incidunt. Voluptatem odio delectus nesciunt magnam commodi aspernatur id, excepturi consequuntur.<abbr title="Be practical tech solutions">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia odio incidunt vero aliquid omnis quidem soluta possimus commodi numquam laboriosam maiores repellat, magnam ipsum rerum beatae. Delectus nostrum et alias.</abbr></p>
+
+    <hr>
+
+    <mark>THIS IS A MARK TAG..!</mark>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam incidunt dolores ducimus exercitationem dolor provident illo nobis velit, dignissimos nisi. Cum dolorem dolore nam officia vero possimus eius iusto. Accusamus.<mark>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloribus consequuntur neque ea laborum magni tenetur illo iusto ad ullam, maiores corporis mollitia dolores ex ratione voluptate? A dignissimos ad quod.</mark></p>
+
+    <hr>
+    <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta aliquam, facilis enim, exercitationem iste nemo quod minus beatae ducimus ea illum ad atque perferendis pariatur, officiis ab sequi recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro iste veniam aut asperiores harum, culpa autem beatae nihil sint in quibusdam rerum. Nobis ullam eos nam reprehenderit perferendis culpa mollitia.</blockquote>
+    <h2>Example..!</h2>
+    <blockquote>Do or Die</blockquote>
+    <cite>- Mahatma Gandhiji</cite>
+    
+    <hr>
+
+    <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, molestiae. Cupiditate, magnam cum tempore ducimus dignissimos quis praesentium officia incidunt, minus perspiciatis natus ipsam quo quae saepe obcaecati a? Magnam!"</p>
+
+    <p><q>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo pariatur commodi ducimus maxime nobis nesciunt asperiores. Officia neque magnam voluptas nihil odio veritatis, fugit ratione reprehenderit eius saepe veniam distinctio!</q></p>
+
+    <hr>
+
+    <sup>THIS IS A SUPERSCRIPT TAG..! IT DISPLAY THE CONTENT SLIGHTLY ABOVE THE NORMAL LINE .</sup>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur temporibus quo iste amet laboriosam libero iusto voluptates vitae saepe facilis facere sunt odit doloribus ex, doloremque voluptatum delectus itaque nobis.<sup>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem enim delectus laudantium recusandae explicabo quos! Dolore sint ex sapiente iusto repudiandae ipsa, nemo consectetur quibusdam odio quae itaque sequi ratione?</sup></p>
+    <h2>Example..!</h2>
+    <p>x<sup>2</sup></p>
+
+    <hr>
+
+    <sub>THIS IS SUBSCRIPT TAG..! IT DISPLAYS THE CONTENT SLIGHTLY BELOW THE NORMAL LINE.</sub>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates suscipit minus nobis. Nam aut dignissimos ex, architecto reiciendis impedit quidem eveniet fugiat saepe atque amet molestiae excepturi quia culpa placeat?<sub>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat odio eaque enim nulla atque vero fugit molestias perferendis, necessitatibus alias, ea non, harum sed nisi facere a? Ad, odio doloribus.</sub></p>
+    <h2>Example ..!</h2>
+    <p>log<sub>2</sub></p>
+
+    <hr>
+    <tt>THIS IS MONOSPACE TAG..! THE TEXT IN IN TELETYPE FORMAT</tt>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia harum molestiae commodi rem hic exercitationem, cum obcaecati iusto inventore quia vitae recusandae repudiandae, dolorem eos libero quas maxime! Optio, sed?<tt>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero vero itaque delectus recusandae, necessitatibus omnis praesentium ut quam, quasi optio id temporibus commodi saepe hic iusto doloribus placeat esse? Velit?</tt></p>
+
+    <code>THIS IS A CODE TAG ..! IS USED FOR TO WRITE OTHER LANGUAGE CODE..!</code>
+
+    
+        <code>
+            $(document).ready(function(){
+                $("p").click(function(){
+                  $(this).hide();
+                });
+              });
+        </code>
+       
+        <pre>
+
+          <code>$(document).ready   (function(){
+            $("p").click(function(){
+              $(this).hide();
+            });
+          }); 
+           </code>
+        </pre>
+
+        <p>CTRL + C</p>
+        <p>CTRL + V</p>
+        <p>CTRL + X</p>
+        <kbd>THIS IS A KEYBOARD TAG..!</kbd>
+        <p><kbd>CTRL</kbd> + <kbd>X</kbd></p>
+        <p><kbd>CTRL</kbd> + <kbd>v</kbd></p>
+        <p><kbd>CTRL</kbd> + <kbd>c</kbd></p>
+        <hr>
+
+        <del>this is delete tag..!</del>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta id perferendis, voluptas maxime aut, culpa inventore quisquam suscipit quo consectetur itaque non! Sit, mollitia ducimus soluta rerum nulla ut blanditiis.<del>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad praesentium cumque pariatur quia id aspernatur hic distinctio debitis, libero non fugiat. Illum omnis, asperiores accusamus blanditiis possimus temporibus veniam qui!</del></p>
+
+        <strike>THIS IS A STRIKE TAG..!</strike>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit dolor delectus distinctio dignissimos, ducimus error aliquid non laborum neque enim veniam, perspiciatis saepe adipisci ab. Et nesciunt doloremque eum quisquam!<strike>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque officia ipsum repellendus quibusdam sequi excepturi est aperiam deserunt accusantium vel cum incidunt laborum, sunt quia officiis iure, nisi soluta odio.</strike></p>
+        <hr>
+
+        <small>THIS IS SMALL TAG..!</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quia laudantium soluta laboriosam quod eos non numquam iusto recusandae sapiente magni culpa, inventore obcaecati natus, ex reiciendis illum aperiam magnam.<small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis perspiciatis exercitationem, quas incidunt et officiis sint reiciendis nesciunt omnis consequuntur debitis nam error ducimus aut quos maiores soluta reprehenderit dolor.</small></p>
+
+        <big>THIS IS BIG TAG..!</big>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque repudiandae nisi debitis asperiores numquam veritatis placeat, corrupti totam. Excepturi ab eum dicta magnam pariatur ratione omnis vero qui dolore assumenda!<big>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi veniam amet nesciunt excepturi commodi animi, voluptas fugit recusandae. Omnis deleniti aperiam veritatis temporibus dolorum enim voluptate excepturi laborum iusto totam.</big></p>
+
+        <hr>
+        <address><b>Address :</b> #3037/1 8th Main 2nd Cross MCC b block davanagere, Karnataka 577004 </address>
+    </body>
+</html>

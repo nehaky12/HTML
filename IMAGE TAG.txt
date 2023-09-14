@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>IMAGE</title>
+    </head>
+    <body>
+        <center>
+            <h1>IMAGE TAG..!</h1>
+        </center>
+        <hr>
+
+        <h2>Default image..!</h2>
+        <img src="assets/images/image1.jpg" >
+
+        <hr>
+
+        <h2>Image with Height and Width Attribute</h2>
+        <img src="assets/images/image 3.jpg" height="300" width="500">
+
+        <h2>Image with ALT Attribute</h2>
+        <img src="assets/images/image 3.jpg" height="300" width="500">
+        <img src="assets/images/image 3.jpg" height="300" width="500">
+        <img src="assets/images/image3.jpg" height="300" width="500" alt="this is nature..!">
+        
+        <img src="assets/images/image 3.jpg" height="300" width="500" alt="this is nature..!">
+
+    </body>
+</html>
